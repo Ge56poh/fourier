@@ -1,0 +1,3 @@
+<svg width="500" height="500" xmlns="http://www.w3.org/2000/svg"> 
+  <path stroke="#000" fill="none" d="M50,250a200,200 0 1,0 400,0a200,200 0 1,0 -400,0"/>
+</svg>
